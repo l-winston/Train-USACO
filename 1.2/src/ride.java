@@ -7,6 +7,8 @@ TASK: ride
 import java.io.*;
 import java.util.Scanner;
 
+// http://train.usaco.org/usacoprob2?a=y75ibIUQe5R&S=ride
+
 public class ride {
 
     public static void main(String[] args) throws IOException {

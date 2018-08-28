@@ -5,7 +5,6 @@ TASK: nocows
  */
 
 // http://train.usaco.org/usacoprob2?a=69VloHXkeoF&S=nocows
-// solved:
 
 import java.io.*;
 import java.util.Arrays;

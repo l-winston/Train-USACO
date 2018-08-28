@@ -4,6 +4,8 @@ LANG: JAVA
 TASK: friday
  */
 
+// http://train.usaco.org/usacoprob2?a=y75ibIUQe5R&S=friday
+
 import java.io.*;
 import java.util.Scanner;
 
