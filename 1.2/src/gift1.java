@@ -8,6 +8,8 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Scanner;
 
+// http://train.usaco.org/usacoprob2?a=y75ibIUQe5R&S=gift1
+
 public class gift1 {
 
     public static void main(String[] args) throws IOException {

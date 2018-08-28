@@ -9,6 +9,8 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 
+// http://train.usaco.org/usacoprob2?a=y75ibIUQe5R&S=prefix
+
 public class prefix {
 
     public static void main(String[] args) throws IOException {
