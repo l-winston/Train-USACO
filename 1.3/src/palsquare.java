@@ -25,7 +25,7 @@ public class palsquare {
             String i2 = Integer.toString(i*i);
             // if its square is a palindrome then print it
             if(isPali(convertFromBaseToBase(i2, 10, base)))
-                out.println(convertFromBaseToBase(i+"", 10, base) + " " + convertFromBaseToBase(i2, 10, base));
+                out.println((convertFromBaseToBase(i+"", 10, base) + " " + convertFromBaseToBase(i2, 10, base)).toUpperCase());
         }
 
         in.close();
