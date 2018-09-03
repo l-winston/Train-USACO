@@ -1,13 +1,7 @@
-/*
-ID: winwins1
-LANG: JAVA
-TASK: test
- */
-
 import java.io.*;
 import java.util.Scanner;
 
-public class Template {
+public class UsacoTemplate {
 
     public static void main(String[] args) throws IOException {
         final String probName = "TEMPLATE";
