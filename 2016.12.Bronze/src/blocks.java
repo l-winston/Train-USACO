@@ -11,6 +11,7 @@ public class blocks {
         int N = in.nextInt();
         int[] ans = new int[26];
 
+        // only 1 side can be shown at a time, so take max needed to show each side and add to total
         for(int n = 0; n < N; n++){
             int[] a = freq(in.next());
             int[] b = freq(in.next());
@@ -26,6 +27,7 @@ public class blocks {
         System.exit(0);
     }
 
+    // calculate frequency of each character
     static int[] freq(String a){
         int[] ret = new int[26];
 

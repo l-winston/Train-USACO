@@ -13,9 +13,11 @@ public class cowsignal {
 
         for (int i = 0; i < M; i++) {
             char[] c = in.next().toCharArray();
-            for (int k = 0; k < K; k++) {
+            // print double rows
+            for (int dr = 0; dr < K; dr++) {
                 for (int j = 0; j < N; j++)
-                    for (int kk = 0; kk < K; kk++)
+                    // print double cols
+                    for (int dc = 0; dc < K; dc++)
                         out.print(c[j]);
                 out.println();
             }

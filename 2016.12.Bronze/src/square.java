@@ -13,13 +13,19 @@ public class square {
         Point p3 = new Point(in.nextInt(), in.nextInt());
         Point p4 = new Point(in.nextInt(), in.nextInt());
 
+        // find smallest x coord
         int x1 = Math.min(p1.x, p3.x);
+        // find largest x coord
         int x2 = Math.max(p2.x, p4.x);
+        // find smallest y coord
         int y1 = Math.min(p1.y, p3.y);
+        // find largest y coord
         int y2 = Math.max(p2.y, p4.y);
 
+        // calculate smallest square side
         int maxside = Math.max(x2-x1, y2-y1);
 
+        // square it
         out.println(maxside*maxside);
 
         in.close();
