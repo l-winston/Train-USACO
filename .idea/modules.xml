@@ -10,9 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/2016.12.Bronze/2016.12.Bronze.iml" filepath="$PROJECT_DIR$/2016.12.Bronze/2016.12.Bronze.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016.12.Gold/2016.12.Gold.iml" filepath="$PROJECT_DIR$/2016.12.Gold/2016.12.Gold.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016.12.Silver/2016.12.Silver.iml" filepath="$PROJECT_DIR$/2016.12.Silver/2016.12.Silver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Templates/Templates.iml" filepath="$PROJECT_DIR$/Templates/Templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Train.Usaco.iml" filepath="$PROJECT_DIR$/.idea/Train.Usaco.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Useful Algorithims/Useful Algorithims.iml" filepath="$PROJECT_DIR$/Useful Algorithims/Useful Algorithims.iml" />
     </modules>
   </component>
 </project>
