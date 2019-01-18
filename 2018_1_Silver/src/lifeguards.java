@@ -21,7 +21,7 @@ public class lifeguards {
             events[i] = new Event(readInt(), i);
             events[i+n] = new Event(readInt(), i);
         }
-        Arrays.sort(events);
+        Arrays.sort(events  );
         int totalTime = 0;
         int[] timelost = new int[n];
         boolean[] on = new boolean[n];

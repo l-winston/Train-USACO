@@ -1,72 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f100221d-cacf-4e1f-9266-5f69815c026c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2018_1_Silver/2018_1_Silver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018_1_Silver/lifeguards.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018_1_Silver/lifeguards.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Train.Usaco.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f100221d-cacf-4e1f-9266-5f69815c026c" name="Default" comment=".">
+      <change afterPath="$PROJECT_DIR$/2012_11_Silver/2012_11_Silver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2012_11_Silver/distant.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2012_11_Silver/distant.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2012_11_Silver/src/distant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016_1_Silver/2016_1_Silver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016_1_Silver/angry.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016_1_Silver/angry.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016_1_Silver/src/angry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Useful Algorithims/src/DijkstraShortestPath/ShortestPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3/dict.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/2012.11.Bronze.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/cowfind.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/cowfind.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/hshoe.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/hshoe.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/src/cowfind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2012.11.Bronze/src/hshoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/2016.12.Bronze.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/blocks.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/blocks.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/cowsignal.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/cowsignal.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/square.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/square.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/src/blocks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/src/cowsignal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Bronze/src/square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Gold/2016.12.Gold.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Gold/lasers.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Gold/lasers.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Gold/src/lasers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/2016.12.Silver.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/citystate.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/citystate.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/haybales.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/haybales.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/moocast.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/moocast.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/src/citystate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/src/haybales.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2016.12.Silver/src/moocast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/2017.2.Bronze.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/circlecross.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/circlecross.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/cowqueue.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/cowqueue.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/crossroad.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/crossroad.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/src/circlecross.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/src/cowqueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.2.Bronze/src/crossroad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2.2/nocows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2.2/prefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2012.11.Bronze/cowfind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2012.11.Bronze/hshoe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Bronze/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Bronze/blocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Bronze/cowsignal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Bronze/square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Silver/citystate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Silver/haybales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2016.12.Silver/moocast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2017.2.Bronze/circlecross.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2017.2.Bronze/cowqueue$Cow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2017.2.Bronze/cowqueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/2017.2.Bronze/crossroad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java" beforeDir="false" afterPath="$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java" afterDir="false" />
     </list>
     <ignored path="Train.Usaco.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,38 +30,41 @@
     <session id="1968220756">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="in" value="5" />
-          <entry key="java" value="13" />
-          <entry key="out" value="5" />
+          <entry key="2016_1_Silver" value="1" />
+          <entry key="iml" value="4" />
+          <entry key="in" value="8" />
+          <entry key="java" value="17" />
+          <entry key="out" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="13" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="17" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5565" />
+          <entry key="java" value="7770" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5565" />
+          <entry key="JAVA" value="7770" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -124,86 +74,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018_1_Bronze/src/outofplace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java">
+        <entry file="file://$PROJECT_DIR$/2016_1_Silver/src/angry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="280">
+              <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Useful Algorithims/src/CustomSort/ArrayListSort.java">
+        <entry file="file://$PROJECT_DIR$/2016_1_Silver/angry.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="190">
+              <caret line="78" column="2" lean-forward="true" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Useful Algorithims/src/CustomSort/ArraySort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018_1_Silver/lifeguards.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018_1_Silver/lifeguards.out">
+        <entry file="file://$PROJECT_DIR$/2016_1_Silver/angry.out">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Template/src/UsacoTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" selection-end-line="47" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017_12_Bronze/billboard.out">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017_12_Bronze/measurement.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017_12_Bronze/measurement.out">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -228,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2016.12.Bronze/cowsignal.in" />
-        <option value="$PROJECT_DIR$/2016.12.Bronze/cowsignal.out" />
-        <option value="$PROJECT_DIR$/2016.12.Bronze/blocks.in" />
-        <option value="$PROJECT_DIR$/2016.12.Bronze/square.in" />
-        <option value="$PROJECT_DIR$/2016.12.Silver/moocast.in" />
         <option value="$PROJECT_DIR$/2016.12.Silver/src/moocast.java" />
         <option value="$PROJECT_DIR$/2016.12.Bronze/src/blocks.java" />
         <option value="$PROJECT_DIR$/2016.12.Bronze/src/cowsignal.java" />
@@ -279,13 +165,18 @@
         <option value="$PROJECT_DIR$/2018_1_Bronze/src/outofplace.java" />
         <option value="$PROJECT_DIR$/2018_1_Silver/lifeguards.in" />
         <option value="$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java" />
+        <option value="$PROJECT_DIR$/2012_11_Silver/distant.in" />
+        <option value="$PROJECT_DIR$/Useful Algorithims/src/DijkstraShortestPath/ShortestPath.java" />
+        <option value="$PROJECT_DIR$/2012_11_Silver/src/distant.java" />
+        <option value="$PROJECT_DIR$/2016_1_Silver/angry.in" />
+        <option value="$PROJECT_DIR$/2016_1_Silver/src/angry.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="140" />
     <option name="y" value="23" />
-    <option name="width" value="1065" />
+    <option name="width" value="1160" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -294,6 +185,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_1_Silver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_1_Silver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_12_Bronze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="Useful Algorithims" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
+              <item name="Useful Algorithims" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -306,91 +250,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_12_Gold" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_12_Gold" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2018_1_Bronze" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2018_1_Bronze" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2018_1_Silver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="2018_1_Silver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="Useful Algorithims" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="Useful Algorithims" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Train-Usaco" type="462c0819:PsiDirectoryNode" />
-              <item name="Useful Algorithims" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomSort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Train-Usaco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory&#10;module" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/csliu/Desktop/Java Code/Train.Usaco/2016.12.Gold/2016.12.Gold.iml" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542964534804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547687998142" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -423,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lifeguards">
+  <component name="RunManager" selected="Application.angry">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -577,10 +444,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="billboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="billboard" />
-      <module name="2017_12_Bronze" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2017.12.Bronze" />
+    <configuration name="angry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="angry" />
+      <module name="2016_1_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_1_Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="distant" />
+      <module name="2012_11_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2012_11_Silver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -605,14 +480,6 @@
       <option name="MAIN_CLASS_NAME" value="outofplace" />
       <module name="2018_1_Bronze" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018_1_Bronze" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shuffle" />
-      <module name="2017_12_Bronze" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2017.12.Bronze" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -688,19 +555,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.shuffle" />
-      <item itemvalue="Application.billboard" />
       <item itemvalue="Application.outofplace" />
       <item itemvalue="Application.lasers" />
       <item itemvalue="Application.lifeguards" />
+      <item itemvalue="Application.distant" />
+      <item itemvalue="Application.angry" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.angry" />
+        <item itemvalue="Application.distant" />
         <item itemvalue="Application.lifeguards" />
         <item itemvalue="Application.lasers" />
         <item itemvalue="Application.outofplace" />
-        <item itemvalue="Application.billboard" />
-        <item itemvalue="Application.shuffle" />
       </list>
     </recent_temporary>
   </component>
@@ -920,7 +787,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537127754429</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=".">
+      <created>1543425908506</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1543425908506</updated>
+    </task>
+    <task id="LOCAL-00029" summary=".">
+      <created>1543426065293</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1543426065293</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -933,10 +814,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="23" width="1065" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="140" y="23" width="1160" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6442308" weight="0.39207047" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6442308" visible="true" weight="0.17710197" />
       <window_info id="Structure" order="1" weight="0.24926686" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -945,12 +825,12 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49675852" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4127182" weight="0.16050956" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4127182" weight="0.24458599" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48707592" weight="0.25940594" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45315024" weight="0.32740214" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45315024" weight="0.32738853" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.493517" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5872818" side_tool="true" weight="0.19335707" />
@@ -1047,67 +927,14 @@
     <MESSAGE value="barn1 solution added" />
     <MESSAGE value="cowqueue solution added" />
     <MESSAGE value="circlecross solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="circlecross solution added" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2016_12_Silver/haybales.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2012_11_Bronze/src/cowfind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2012_11_Bronze/src/hshoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2012_11_Bronze/hshoe.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_12_Gold/lasers.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_12_Silver/src/haybales.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4/money.in" />
-    <entry file="file://$PROJECT_DIR$/2.3/src/money.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.3/src/zerosum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.4/money.out" />
     <entry file="file://$PROJECT_DIR$/1.4/zerosum.in" />
     <entry file="file://$PROJECT_DIR$/1.4/milk.in">
       <provider selected="true" editor-type-id="text-editor">
@@ -1277,13 +1104,6 @@
     <entry file="file://$PROJECT_DIR$/2018_1_Bronze/outofplace.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018_1_Bronze/src/outofplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Useful Algorithims/src/CustomSort/ArrayListSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1308,13 +1128,6 @@
     <entry file="file://$PROJECT_DIR$/2018_1_Silver/lifeguards.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Template/src/UsacoTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017_12_Bronze/billboard.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1334,18 +1147,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018_1_Silver/src/lifeguards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="199">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018_1_Bronze/src/outofplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Useful Algorithims/Useful Algorithims.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Useful Algorithims/src/DijkstraShortestPath/ShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2012_11_Silver/distant.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2012_11_Silver/distant.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_1_Silver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/src/UsacoTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="5" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2012_11_Silver/src/distant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
           <folding>
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_1_Silver/2016_1_Silver.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_1_Silver/angry.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_1_Silver/angry.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="78" column="2" lean-forward="true" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_1_Silver/src/angry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1401,7 +1275,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>2018_1_Silver</last-edited>
+          <last-edited>2012_11_Silver</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
